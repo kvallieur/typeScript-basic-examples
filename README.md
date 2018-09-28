@@ -3,8 +3,9 @@
 - It helps a developer to write clean javscript code
 - In addition to javascript typescript has some additional features like Enums, Tuples, Types, etc.
 
-## Types: similar to Java where method args can be declared with datatypes TS allows the same feature
-Implicit typing is allowed. TS assumes based on the code and does the implicit typing
+## Types: 
+- similar to Java where method args can be declared with datatypes TS allows the same feature
+- Implicit typing is allowed. TS assumes based on the code and does the implicit typing
 
 Typescript is like a developer tool that notifies the developer about code smells
 End of the day - TS transpiles the ts file into javascript file
