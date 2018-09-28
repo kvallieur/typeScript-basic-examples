@@ -1,4 +1,4 @@
-# typeScript-basic-examples
+# TypeScript-basic-examples
 - Typescript is a superset of javascript. It has matured a lot since its inception. 
 - It helps a developer to write clean javscript code
 - In addition to javascript typescript has some additional features like Enums, Tuples, Types, etc.
