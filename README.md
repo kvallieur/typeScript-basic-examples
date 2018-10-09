@@ -24,3 +24,13 @@ executes the compiled js file
 $ tsc XXXX.ts --watch 
 ```
 will automatically compile the changes when a file is modified
+
+
+## running as a npm project
+a package.json file is present with the task start.
+the 'start' task executes the typescript compilation and runs the index.js file
+
+```sh 
+$ npm start
+```
+
